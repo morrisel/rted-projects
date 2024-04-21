@@ -1,0 +1,9 @@
+[submodule "rted-cpp-projects"]
+	path = rted-cpp-projects
+	url = https://github.com/user/rted-cpp-projects.git
+	branch = main
+
+[submodule "rted-c-projects"]
+	path = rted-c-projects
+	url = https://github.com/user/rted-c-projects.git
+	branch = main
